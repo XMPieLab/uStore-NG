@@ -7,4 +7,4 @@ What can you do with them?
 Copy whatever you want to your own theme.
 
 Themes:
-1. themeDevWebinar.zip - this theme is the one developed on the 'uStore NG Theme Development' webinar. The theme was developmed from AquaBlue theme from version 10.
+1. themeDevWebinar.zip - this theme is the one developed on the 'uStore NG Theme Development' webinar. The theme was developed from XMPie_AquaBlue theme uStore version 10.
